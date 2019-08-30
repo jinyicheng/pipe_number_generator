@@ -1,0 +1,14 @@
+{
+  "name": "jinyicheng/pipe_number_generator",
+  "description": "Pipe number generator",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "jinyicheng",
+      "email": "234067496@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
